@@ -11,7 +11,7 @@ Sample solution for the  [number-guessing-game ](https://roadmap.sh/projects/num
 ```
 ### Requirements
 - Python 
-- ``` inquirer ``` module
+- ``` inquirer ```, ``` random ``` modules
   
 
 ### Explanation 
@@ -34,5 +34,5 @@ Sample solution for the  [number-guessing-game ](https://roadmap.sh/projects/num
 
 ### Acknowledgments
 - Thanks to Roadmap.sh for providing this project idea.
-- Thanks to the Python community for providing the ```inquirer``` module.
+- Thanks to the Python community for providing the ```inquirer```,``` random ``` modules.
 - Thanks to the GitHub community for providing a platform for open-source projects.
